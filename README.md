@@ -38,6 +38,7 @@
 - **Book:** [Audiovisual Speech Processing](https://www.researchgate.net/publication/236593865_Audiovisual_Speech_Processing)  
 ## Speech Separation  
 - [A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/pdf/1804.03619.pdf)  
+- [Audio-Visual Speech Source Separation](https://hal.archives-ouvertes.fr/hal-00990000/document)   
 ## Context
 - [VISUAL FEATURES FOR CONTEXT-AWARE SPEECH RECOGNITION](http://www.cs.cmu.edu/~fmetze/interACT/Publications_files/publications/av.pdf)  
 ## Human Audiovisual Speech Recognition Process  

@@ -23,6 +23,7 @@
 - Multimodal Speech Recognition  
 - Source Separation  
 - Signal Processing  
+- Cocktail party effect  
 
 # Links de artigos  
 ## Visual Speech Recognition  

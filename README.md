@@ -21,6 +21,8 @@
 - Lipreading in the wild  
 - Automatic Speech Separation  
 - Multimodal Speech Recognition  
+- Source Separation  
+- Signal Processing  
 
 # Links de artigos  
 ## Visual Speech Recognition  

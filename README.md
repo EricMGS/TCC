@@ -14,7 +14,13 @@
 - Audio Visual Speech Enhancement  
 - Audio Visual Speech Processing  
 - Deep audio visual speech recognition  
-- Fluxo óptico  
+- Lipreading  
+- Speechreading  
+- Audio-visual fusion  
+- Context-aware speech recognition  
+- Lipreading in the wild  
+- Automatic Speech Separation  
+- Multimodal Speech Recognition  
 
 # Links de artigos  
 ## Visual Speech Recognition  
